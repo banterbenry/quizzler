@@ -1,4 +1,4 @@
-# xylo
+# Quizzler
 
 A new Flutter project.
 
